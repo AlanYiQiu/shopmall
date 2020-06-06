@@ -3,7 +3,7 @@ import { Toast } from "vant";
 import Loading from "../store/index";
 
 // 本接口为测试接口,真实接口请联系coderwhy001
-const url = "http://152.136.185.210:8000/api/n3";
+const url = "http://152.136.100.210:8000/api/n3";
 
 let config = {
   baseURL: url
